@@ -1,1 +1,2 @@
-# Derivatives-
+# Derivatives
+#TUGAS PERTEMUAN KE 10 MATA KULIAH MATEMATIKA LANJUT
